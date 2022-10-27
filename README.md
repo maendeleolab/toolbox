@@ -7,7 +7,7 @@ Toolbox is repo of helper scripts you can use to automate mundane tasks.
 
 1) **install_cdk_tools.sh** : Installs tools for your CDK environment on Ubuntu version 20.04.
 
-'Installs unzip'
+''Installs unzip''
 
 'Installs awscliv2'
 
