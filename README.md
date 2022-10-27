@@ -1,23 +1,23 @@
 
 
 # Context
-Toolbox is repo for low level scripts you can use to automate mundane tasks.
+Toolbox is repo of helper scripts you can use to automate mundane tasks.
 
 ## How to use the scripts
 
-- **install_cdk_tools.sh** : Installs tools for your CDK environment on Ubuntu version 20.04.
+1) **install_cdk_tools.sh** : Installs tools for your CDK environment on Ubuntu version 20.04.
 
-Installs unzip
+'Installs unzip'
 
-Installs awscliv2
+'Installs awscliv2'
 
-Installs Node.js
+'Installs Node.js'
 
-Installs CDK toolkit
+'Installs CDK toolkit'
 
-Installs Python virtual environment
+'Installs Python virtual environment'
 
-Creates folder for your App
+'Creates folder for your App'
 
 ```
 ./install_cdk_tools.sh <your-cdk-folder-name>
