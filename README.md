@@ -1,7 +1,7 @@
 
 
 # Context
-Toolbox is repo of helper scripts you can use to automate mundane tasks.
+Toolbox is a repo of helper scripts you can use to automate mundane tasks.
 
 ## How to use the scripts
 
