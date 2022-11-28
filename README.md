@@ -1,11 +1,15 @@
-
-
 # Context
-Toolbox is a repo of helper scripts you can use to automate mundane tasks.
+Toolbox is a repository of helper scripts you can use to automate mundane tasks.
 
 ## How to use the scripts
+1) Clone this repo to your Linux machine
+```
+git clone https://github.com/maendeleolab/toolbox.git
+```
 
-1) **install_cdk_tools.sh** : Installs tools for your CDK environment on Ubuntu version 20.04.
+2) **install_cdk_tools.sh** : Installs tools for your CDK environment on your Linux machine.
+
+- Note: This script has been validated on Ubuntu version 20.04.
 
 ```
 Installs unzip
@@ -18,9 +22,9 @@ Creates folder for your App
 ```
 ./install_cdk_tools.sh <your-cdk-folder-name>
 ```
-2) Make sure you clone the project that you plan to work with, before proceeding to the next script.
+3) Make sure you clone the project that you plan to work with, before proceeding to the next script.
 
-3) **setup_cdk_env.sh** : Establishes your CDK environment on Ubuntu version 20.04.
+4) **setup_cdk_env.sh** : Establishes your CDK environment on Ubuntu version 20.04.
 
 ```
 Accesses cdk folder 
