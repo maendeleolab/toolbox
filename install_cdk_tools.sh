@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# NOTES: This scrip works well on Ubuntu version below
+# NOTES: This scrip works well on the Ubuntu version below
 # Distributor ID: Ubuntu
 # Description:    Ubuntu 20.04.4 LTS
 # Release:        20.04
