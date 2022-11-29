@@ -32,6 +32,4 @@ cdk --version
 #install python virtual env
 sudo apt install python3.8-venv
 
-#perform the commands below manually
-#create folder for cdk
-mkdir $1 
+# ----------------- End ------------------
