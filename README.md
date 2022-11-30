@@ -1,8 +1,8 @@
-# [Context]
+# [Context] (#Context)
 Toolbox is a repository of helper scripts you can use to automate mundane tasks.
 
 ## How to use the scripts [How to use the scripts]
-#### Step 1 [Step 1]
+#### [Step 1] (Step 1)
 
 Clone this repo to your Linux machine
 ```
