@@ -35,4 +35,7 @@ sudo apt install python3.8-venv
 #create a directory for CDK projects
 mkdir $1
 
+#notify user to configure aws cli credentials
+echo "Do not forget to run aws configure to setup your credentials"
+
 # ----------------- End ------------------
