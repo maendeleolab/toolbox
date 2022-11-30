@@ -1,4 +1,4 @@
-# Context [Context]
+# [Context]
 Toolbox is a repository of helper scripts you can use to automate mundane tasks.
 
 ## How to use the scripts [How to use the scripts]
