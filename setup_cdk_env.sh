@@ -10,7 +10,7 @@
 cd $1
 
 #create cdk project
-#cdk init app --language python
+cdk init app --language python
 
 #create virtual environment, this one is named labs
 python3 -m venv .labs
