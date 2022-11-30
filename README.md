@@ -28,7 +28,7 @@ Run this command
 ./install_cdk_tools.sh <your-cdk-folder-name>
 ```
 
-#### [Step 3](#Step 3) 
+#### Step 3 
 
 **setup_cdk_env.sh** : Establishes your CDK environment on Ubuntu version 20.04.
 
