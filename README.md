@@ -1,6 +1,12 @@
 # [Context](#Context)
 Toolbox is a repository of helper scripts you can use to automate mundane tasks.
 
+This repo is under development and the notes below are only for using the **cdkInstall** folder.
+
+You are welcome to explore the other folders, which are currently being developped. 
+
+- Note: The scripts below have been tested and validated on Ubuntu version 20.04.
+
 ## How to use the scripts
 #### Step 1
 
@@ -12,8 +18,6 @@ git clone https://github.com/maendeleolab/toolbox.git
 #### Step 2
 
 **install_cdk_tools.sh** : Installs tools for your CDK environment on your Linux machine.
-
-- Note: This script has been validated on Ubuntu version 20.04.
 
 ```
 Installs unzip
@@ -39,7 +43,7 @@ aws configure
 
 #### Step 4
 
-**setup_cdk_env.sh** : Establishes your CDK environment on Ubuntu version 20.04.
+**setup_cdk_env.sh** 
 
 ```
 Accesses your cdk folder 
