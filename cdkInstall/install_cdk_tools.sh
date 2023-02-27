@@ -25,12 +25,12 @@ node --version
 npm --version
 
 #install CDK toolkit
-sudo npm install -g aws-cdk
+sudo npm install -g aws-cdk 
 #show CDK version
 cdk --version
 
 #install python virtual env
-sudo apt install python3.8-venv
+sudo apt install python3.8-venv -y
 
 #create a directory for CDK projects
 mkdir $1
