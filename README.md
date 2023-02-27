@@ -25,10 +25,19 @@ Creates folder for your CDK projects
 ```
 Run this command
 ```
-./install_cdk_tools.sh <your-cdk-folder-name>
+./install_cdk_tools.sh ~/<your-cdk-folder-name>
 ```
 
-#### Step 3 
+#### Step 3
+
+**Set up AWS CLI to access your AWS environment**
+
+Run this command
+```
+aws configure
+```
+
+#### Step 4
 
 **setup_cdk_env.sh** : Establishes your CDK environment on Ubuntu version 20.04.
 
@@ -42,5 +51,5 @@ Runs cdk bootstrap
 ```
 Run this command
 ```
-./setup_cdk_env.sh <your-cdk-folder-name> #same folder name, as the one you used above
+./setup_cdk_env.sh ~/<your-cdk-folder-name> #same folder name, as the one you used above
 ```
