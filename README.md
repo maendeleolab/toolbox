@@ -5,7 +5,7 @@ This repo is under development and the notes below are only for using the **cdkI
 
 You are welcome to explore the other folders, which are currently being developped. 
 
-- Note: The scripts below have been tested and validated on Ubuntu version 20.04.
+- Note: The scripts below have been tested and validated on Ubuntu version 20.04. Minimum instance type requirement use t3.medium for performance.
 
 ## How to use the scripts
 #### Step 1
