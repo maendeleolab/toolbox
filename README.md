@@ -56,5 +56,6 @@ Runs cdk bootstrap
 ```
 Run this command
 ```
-./setup_cdk_env.sh ~/<your-cdk-folder-name> #same folder name, as the one you used above
+#same folder name, as the one you used above
+./setup_cdk_env.sh ~/<your-cdk-folder-name>
 ```
