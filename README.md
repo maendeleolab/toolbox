@@ -29,6 +29,7 @@ Creates folder for your CDK projects
 ```
 Run this command
 ```
+cd toolbox/cdkInstall
 ./install_cdk_tools.sh ~/<your-cdk-folder-name>
 ```
 
