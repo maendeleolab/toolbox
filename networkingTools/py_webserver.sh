@@ -3,7 +3,7 @@
 # Installs tmux, if you don't have it yet
 sudo apt-get update
 sudo apt-get install tmux -y
-chmod +x 400 py_webserver.sh
+
 # Create a new tmux session named "test_web"
 tmux new-session -d -s test_web
 
