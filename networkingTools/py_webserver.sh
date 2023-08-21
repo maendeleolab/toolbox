@@ -9,5 +9,5 @@ tmux new-session -d -s test_web
 
 # Run a command inside the "test_web" session.
 # Remember to change the target region to the one you are using.
-# The command uses python http module to start a web server listening on TCP port number 5454.
-tmux send-keys -t test_web 'sudo python3 -m http.server 5454' C-m
+# The command uses python http module to start a web server listening on TCP port number.
+tmux send-keys -t test_web 'sudo python3 -m http.server 80' C-m
