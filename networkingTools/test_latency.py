@@ -4,6 +4,14 @@ Goal = '''
 to test latency using hping3 utility
 Author: Pat@Maendeleolab
 '''
+Usage = '''
+This script measures network latency between a source and a destination host.
+If the response time takes more than 1 second, the result is logged in file 'hping3_monitoring.log'
+This helps when tshooting latency/slowness.
+Call the function as follows: test_hping3('destination-host', 'destination-port')
+In addition, you can run the script in a loop as shown in the example below.
+Example: 'while true; do ./test_latency.py; sleep 1; done'
+'''
 
 #Module imports
 import logging, sys, os, json
