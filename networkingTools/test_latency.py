@@ -3,6 +3,7 @@
 Goal = '''
 to test latency using hping3 utility
 Author: Pat@Maendeleolab
+https://github.com/maendeleolab
 '''
 Usage = '''
 This script measures network latency between a source and a destination host.
